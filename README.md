@@ -1,2 +1,2 @@
-# physicwithbuckley.github.io
+# physicswithbuckley.github.io
 Physics Resources
